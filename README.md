@@ -22,4 +22,4 @@ Criar duas páginas (no mínimo) apartir do arquivo modelo (arquivo: sales_repor
 
 ##
 ### Resultado Final:
-arquivo: sales_report_final.pbix
+arquivo: sales_report_projeto_final.pbix
